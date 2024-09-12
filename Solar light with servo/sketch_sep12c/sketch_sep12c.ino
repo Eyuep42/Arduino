@@ -18,6 +18,7 @@ void loop()
 
   if (wert < 1000) {
     Servomotor.write(45);
+    
       
   } 
   else {
